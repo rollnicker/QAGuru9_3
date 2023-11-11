@@ -7,6 +7,7 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hello, {name}!f!!')  # Press ⌘F8 to toggle the breakpoint. !!1что-то для удаления!!
+    # 2 чтото доьбавил
 
 
 # Press the green button in the gutter to run the script.
